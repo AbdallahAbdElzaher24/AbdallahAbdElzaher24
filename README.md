@@ -36,7 +36,7 @@
 
 ## 🌱 Learning & Interests
 
-- Currently diving deep into software ai models and tools, focusing on building robust and reliable Ai model.
+- Currently diving deep into software ai models and tools, focusing on building robust and reliable Ai model with high accuracy.
 - Exploring code optimization techniques to enhance performance and efficiency.
 - Passionate about problem-solving and eager to learn new technologies that push the boundaries of Ai development.
 
