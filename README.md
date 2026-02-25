@@ -1,58 +1,68 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Abdallah, Data scientist student from 
+<p>Welcome to my page! </br> I'm Abdallah, Data Scientist & AI Developer from 
 <img src="https://cdn-icons-png.flaticon.com/512/11848/11848666.png" width="13"/> <b>Alexandria, Egypt</b>. </p>
 
-## 🔧 My Skills, Languages, Editors and Technical I Have Learned
+---
 
-### 🖥️ Languages
+## 🔧 My Skills & Technical Toolkit
+
+### 🖥️ Languages & Web Frameworks
 <p>
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-### 📚 Concepts
+### 🤖 AI, Machine Learning & Deep Learning
 <p>
-  <img alt="Problem Solving" src="https://img.shields.io/badge/-Problem%20Solving-1abc9c?style=flat-square" />
-  <img alt="OOP" src="https://img.shields.io/badge/-OOP-9b59b6?style=flat-square" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 </p>
 
-### 🤖 AI & ML
-<p>
-  <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-ff9900?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-ff0000?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="Neural Networks" src="https://img.shields.io/badge/-Neural%20Networks-2ecc71?style=flat-square&logo=keras&logoColor=white" />
-</p>
-## 📊 Data Science & Analysis
+### 📊 Data Science & Visualization
 <p>
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-ffffff?style=flat-square&logo=python&logoColor=black" />
-  <img alt="Data Visualization" src="https://img.shields.io/badge/-Data%20Visualization-34495e?style=flat-square" />
-</p>
-### 📝 Editors / IDEs
-<p>
-  <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
-  <img alt="CLion" src="https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=clion&logoColor=white" />
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square" />
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black" />
 </p>
 
+### 🗄️ Databases
+<p>
+  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+### 📝 Editors & IDEs
+<p>
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
+  <img alt="CLion" src="https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=clion&logoColor=white" />
+</p>
+
+---
 
 ## 🌱 Learning & Interests
 
-- Currently diving deep into software ai models and tools, focusing on building robust and reliable Ai model with high accuracy.
-- Exploring code optimization techniques to enhance performance and efficiency.
-- Passionate about problem-solving and eager to learn new technologies that push the boundaries of Ai development.
+- 🚀 Deploying AI models using **Flask** to create interactive web applications.
+- 📉 Architecting efficient databases with **SQL Server** and **NoSQL (MongoDB)** for data-driven projects.
+- 💡 Mastering the end-to-end Data Science lifecycle, from raw data to visualization in **Power BI**.
+
+---
 
 <h3>❤️ Let's Talk Together</h3>
 
-
+<p>
 <a href="https://www.linkedin.com/in/abdallahabdelzaher" target="_blank">
   <img src="https://img.shields.io/badge/-ABDALLAH%20ABDELZAHER-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 
 <a href="https://www.facebook.com/share/1BBLLZ6TVy/" target="_blank">
   <img src="https://img.shields.io/badge/-ABDALLAH%20ABDELZAHER-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
@@ -62,6 +72,3 @@
   <img src="https://img.shields.io/badge/-ABDALLAH%20ABDELZAHER-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
-
-
-
