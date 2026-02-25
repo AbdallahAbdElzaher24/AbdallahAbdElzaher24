@@ -25,7 +25,7 @@
   <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-ff0000?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="Neural Networks" src="https://img.shields.io/badge/-Neural%20Networks-2ecc71?style=flat-square&logo=keras&logoColor=white" />
 </p>
-### 📊 Data Science & Analysis
+## 📊 Data Science & Analysis
 <p>
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
