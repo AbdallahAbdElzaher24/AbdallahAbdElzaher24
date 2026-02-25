@@ -25,7 +25,13 @@
   <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-ff0000?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="Neural Networks" src="https://img.shields.io/badge/-Neural%20Networks-2ecc71?style=flat-square&logo=keras&logoColor=white" />
 </p>
-
+### 📊 Data Science & Analysis
+<p>
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-ffffff?style=flat-square&logo=python&logoColor=black" />
+  <img alt="Data Visualization" src="https://img.shields.io/badge/-Data%20Visualization-34495e?style=flat-square" />
+</p>
 ### 📝 Editors / IDEs
 <p>
   <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
@@ -52,6 +58,9 @@
   <img src="https://img.shields.io/badge/-ABDALLAH%20ABDELZAHER-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
+<a href="https://www.instagram.com/trafrlgar_d_law/" target="_blank">
+  <img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 
 
