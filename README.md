@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Abdallah, Ai developer from 
+<p>Welcome to my page! </br> I'm Abdallah, Data scientist student from 
 <img src="https://cdn-icons-png.flaticon.com/512/11848/11848666.png" width="13"/> <b>Alexandria, Egypt</b>. </p>
 
 ## 🔧 My Skills, Languages, Editors and Technical I Have Learned
