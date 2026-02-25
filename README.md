@@ -59,9 +59,9 @@
 </a>
 
 <a href="https://www.instagram.com/trafrlgar_d_law/" target="_blank">
-  <img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ABDALLAH%20ABDELZAHER-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
+</p>
 
 
 
